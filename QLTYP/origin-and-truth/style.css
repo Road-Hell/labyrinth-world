@@ -1,5 +1,6 @@
 @charset "utf-8";
-
+    a:link, a:visited { color: #333; }
+    a:hover { color: #5eebda; }
     html {
         font-size:15px;
         font-family: 'Noto Sans KR', sans-serif;
