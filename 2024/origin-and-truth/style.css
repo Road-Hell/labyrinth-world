@@ -73,7 +73,7 @@ p {
     margin-right: 50px;
     color: #FFFFFF;
  }
- @media screen{ 
+ @media (max-width: 575px){ 
     .player {
         display: flex;
         overflow: hidden;
